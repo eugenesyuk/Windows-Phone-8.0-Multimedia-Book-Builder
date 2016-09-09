@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BookGen.App" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.BookManager" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIhBACgeCAAgEhwAAAAFAAgAAAAoIAgAACAIAAAAQA=</HashCode>
+      <FileName>Classes\BookManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.MargeBitmap" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAgAAAAYAAAAAAAEACAAAAQgAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\MargeBitmap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.NavigateManager" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAgAAAAAAAQAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\NavigateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.WPMainWindow" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAQAAAAJAAgAAJBAACAAAAQAAEAIA=</HashCode>
+      <FileName>WPMainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Classes.LoadProjectFile" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Classes\LoadProjectFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Classes.Page" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEEAAAAAAAAgAEAAMABAABABgAAACIAA=</HashCode>
+      <FileName>Classes\Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Classes.StartPage" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAIAAAAAEIACABAAAgAQAAIAA=</HashCode>
+      <FileName>Classes\StartPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Pages.Build" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAgBAoAAAQAAAAAAAAAgAAAACDAAAAAgA=</HashCode>
+      <FileName>Pages\Build.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Pages.Finish" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Pages\Finish.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Pages.Pages" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAoAAIAFAAAACAAAAoIAAAAAAAAQAAQAABAAAAQkA=</HashCode>
+      <FileName>Pages\Pages.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Pages.Project" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAIAEAAAAQAAAAAAAUAAAAAA=</HashCode>
+      <FileName>Pages\Project.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Pages.Settings" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgAAEAAIEAgAAAAICoAAAACAAEAoAJgAAAEAAACA=</HashCode>
+      <FileName>Pages\Settings.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Pages.StartPage" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAwAAIQAAACAAAAAABAAAABAAAIQAAAAAAAAAAAgA=</HashCode>
+      <FileName>Pages\StartPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Pages.Welcome" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pages\Welcome.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Windows.LanguagesForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBAAAAgAIAAAAAAAkAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Windows\LanguagesForm.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Windows.PagesForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Windows\PagesForm.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookGen.Windows.SoundsForm" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIIAIAAAAAAAAAAAAEAAAAAAEAAAAAAAAiAAAAA=</HashCode>
+      <FileName>Windows\SoundsForm.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

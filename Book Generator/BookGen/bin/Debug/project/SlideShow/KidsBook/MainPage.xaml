@@ -1,0 +1,65 @@
+﻿<phone:PhoneApplicationPage x:Class="KidsBook.MainPage"
+                            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            SupportedOrientations="Landscape" Orientation="Landscape"
+                            mc:Ignorable="d"
+                            d:DesignWidth="728"
+                            d:DesignHeight="480"
+                            shell:SystemTray.IsVisible="True"
+                            DataContext="{Binding Main, Source={StaticResource Locator}}">
+                            <!-- OrientationChanged="PhoneApplicationPage_OrientationChanged" -->
+    <phone:PhoneApplicationPage.Resources>
+        <LinearGradientBrush x:Key="LeftShadow" StartPoint="0,0" EndPoint="1,0">
+            <GradientStop Color="#00000000" Offset="0.0" />
+            <GradientStop Color="#30000000" Offset="1.0" />
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="RightShadow" StartPoint="0,0" EndPoint="1,0">
+            <GradientStop Color="#30000000" Offset="0.0" />
+            <GradientStop Color="#00000000" Offset="1.0" />
+        </LinearGradientBrush>
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot"
+	      Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentGrid"
+		      Grid.Row="1">
+            <Canvas x:Name="PageTurnCanvas" Width="1448" Height="480" HorizontalAlignment="Right" VerticalAlignment="Center">
+                <Canvas x:Name="PrevPageCanvas" Width="724" Height="480" Background="White" Margin="0" Canvas.ZIndex="{Binding ZIndexes[3]}">
+                    <Image x:Name="PrevPage" Width="724" Height="480" Margin="0" Source="{Binding Path=PrevPageImage}" />
+                </Canvas>
+                <Canvas x:Name="PrevCanvas" Width="724" Height="480" Background="White" Margin="692 0 0 0" Canvas.ZIndex="{Binding ZIndexes[0]}" MouseLeftButtonDown="OnBeginTurn" MouseLeftButtonUp="OnEndTurn" MouseMove="OnContinueTurn">
+                    <Image x:Name="Previous" Width="724" Height="480" Margin="0" Source="{Binding Path=PrevImage}" />
+                    <Rectangle Width="32" Height="480" Fill="{StaticResource RightShadow}" Margin="0" />
+                </Canvas>
+                <Canvas x:Name="CurrPageCanvas" Width="724" Height="480" Background="White" Margin="0" Canvas.ZIndex="{Binding ZIndexes[4]}">
+                    <Image x:Name="CurrPage" Width="724" Height="480" Margin="0" Source="{Binding Path=CurrPageImage}" />
+                </Canvas>
+                <Canvas x:Name="CurrCanvas" Width="724" Height="480" Background="White" Margin="692 0 0 0" Canvas.ZIndex="{Binding ZIndexes[1]}" MouseLeftButtonDown="OnBeginTurn" MouseLeftButtonUp="OnEndTurn" MouseMove="OnContinueTurn">
+                    <Image x:Name="Current" Width="724" Height="480" Margin="0" Source="{Binding Path=CurrImage}" />
+                    <Rectangle Width="32" Height="480" Fill="{StaticResource RightShadow}" Margin="0"/>
+                </Canvas>
+                <Canvas x:Name="NextCanvas" Width="724" Height="480" Background="White" Margin="692 0 0 0" Canvas.ZIndex="{Binding ZIndexes[2]}" MouseLeftButtonDown="OnBeginTurn" MouseLeftButtonUp="OnEndTurn" MouseMove="OnContinueTurn">
+                    <Image x:Name="Next" Width="724" Height="480" Margin="0" Source="{Binding Path=NextImage}" />
+                    <Rectangle Width="32" Height="480" Fill="{StaticResource RightShadow}" Margin="0"/>
+                </Canvas>
+            </Canvas>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

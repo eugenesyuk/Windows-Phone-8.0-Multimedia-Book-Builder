@@ -1,0 +1,44 @@
+﻿<Page x:Class="BookGen.Pages.Settings"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" d:DesignWidth="742"
+	Title="Settings" Height="1010" Loaded="Page_Loaded_1">
+
+    <Grid x:Name="ContentGrid">
+    	<StackPanel MaxWidth="800" Height="1000" VerticalAlignment="Top">
+	        <TextBlock FontSize="16" TextWrapping="Wrap" MaxWidth="800" HorizontalAlignment="Left" Text="In this step you can configure the last aspects of the book. There are three control boxes that you can edit. Use the first one to choose a file name for the resulting XAP file, and to add a title to the book. On the second box you can choose the application icons for the marketplace. On the third box you can select the icons for the pop-up menu that will appear in each page. The first of these icons is used to play/pause the current audio file, whereas the second one is used to stop it. Finally , you must select image , showed when the application is loading."/>
+	        <GroupBox Header="Names" Height="100" HorizontalAlignment="Center" Margin="0,10,0,0" Name="gbNames" VerticalAlignment="Top" Width="403">
+	            <Grid>
+	                <TextBlock Height="23" HorizontalAlignment="Left" Margin="14,17,0,0" Name="lblXapName" Text="XAP file name" VerticalAlignment="Top" />
+	                <TextBlock Height="23" HorizontalAlignment="Left" Margin="59,0,0,11" Name="lblTitle" Text="Title" VerticalAlignment="Bottom" Width="28" />
+	                <TextBox Height="23" HorizontalAlignment="Left" Margin="93,14,0,0" Name="txtXapName" VerticalAlignment="Top" Width="281" TextChanged="txtXapName_TextChanged" GotFocus="txtXapName_GotFocus" LostFocus="txtXapName_LostFocus" />
+	                <TextBox Height="23" HorizontalAlignment="Left" Margin="93,43,0,0" Name="txtTitle" VerticalAlignment="Top" Width="281" TextChanged="txtTitle_TextChanged" GotFocus="txtTitle_GotFocus" LostFocus="txtTitle_LostFocus" />
+	            </Grid>
+	        </GroupBox>
+	        <GroupBox Header="Application icons" Height="229" HorizontalAlignment="Center" Margin="170,10,170,0" Name="gbImages" VerticalAlignment="Top" Width="402">
+	            <Grid>
+	                <Image Height="173" HorizontalAlignment="Left" Margin="14,15,0,0" Name="imgLargeIcon" Stretch="Fill" VerticalAlignment="Top" Width="173" MouseLeftButtonUp="lblLargeImage_MouseLeftButtonUp" Cursor="Hand" AllowDrop="True" Focusable="True" ToolTip="Application icon 173x173" />
+	                <Image Height="173" HorizontalAlignment="Left" Margin="201,15,0,0" Name="imgSmallIcon" Stretch="Fill" VerticalAlignment="Top" Width="173" MouseLeftButtonUp="lblSmallImage_MouseLeftButtonUp" Cursor="Hand" ToolTip="Application icon 99x99" AllowDrop="True" Focusable="True" />
+	                <TextBlock Background="AliceBlue" Text="This image is used in the phone start screen. It must have a size of 173 x 173 pixels. Click to add." Height="173" TextWrapping="Wrap" HorizontalAlignment="Left" Margin="14,15,0,0" Name="lblLargeImage" VerticalAlignment="Top" Width="173" MouseLeftButtonUp="lblLargeImage_MouseLeftButtonUp" Cursor="Hand" TextAlignment="Center" LineHeight="10" />
+	                <TextBlock Background="AliceBlue" Text="This image is used in the phone application list. It must have a size of 99 x 99 pixels. Click to add." TextWrapping="Wrap" Height="173" HorizontalAlignment="Left" Margin="201,15,0,0" Name="lblSmallImage" VerticalAlignment="Top" Width="173" MouseLeftButtonUp="lblSmallImage_MouseLeftButtonUp" Cursor="Hand" TextAlignment="Center" LineHeight="10" AllowDrop="True" Focusable="True" ToolTip="Application icon 99x99"/>
+	            </Grid>
+	        </GroupBox>
+	        <GroupBox Header="Popup menu icons" Height="229" HorizontalAlignment="Center" Margin="170,10,170,0" Name="gbPopupMenu" VerticalAlignment="Top" Width="402">
+	            <Grid Margin="0,0,0,-1">
+	            	<Image Height="173" HorizontalAlignment="Left" Margin="14,15,0,0" Name="playIcon" VerticalAlignment="Top" Width="173" MouseLeftButtonUp="playIcon_MouseLeftButtonUp" Cursor="Hand" Stretch="Fill" ToolTip="Play image" AllowDrop="True" Focusable="True" />
+	                <Image Height="173" HorizontalAlignment="Left" Margin="201,15,0,0" Name="pauseIcon" VerticalAlignment="Top" Width="173" MouseLeftButtonUp="pauseIcon_MouseLeftButtonUp" Stretch="Fill" Cursor="Hand" ToolTip="Pause image" AllowDrop="True" Focusable="True" />
+	                <TextBlock Background="AliceBlue" TextAlignment="Center"  Text="Click to add a play image" Height="173"  TextWrapping="Wrap"  HorizontalAlignment="Left" Margin="14,15,0,-19" Name="lblPlayIcon" VerticalAlignment="Top" Width="173" MouseLeftButtonUp="lblPlayIcon_MouseLeftButtonUp" Cursor="Hand" ToolTip="Play image " AllowDrop="True" Focusable="True" />
+                    <TextBlock Background="AliceBlue" TextAlignment="Center" Text="Click to add a pause image" TextWrapping="Wrap" Height="173" HorizontalAlignment="Left" Margin="201,15,0,-19" Name="lblPauseIcon" VerticalAlignment="Top" Width="173" MouseLeftButtonUp="lblPauseIcon_MouseLeftButtonUp" Cursor="Hand" ToolTip="Pause image" AllowDrop="True" Focusable="True" />
+				</Grid>
+	        </GroupBox>
+            <GroupBox Header="Application load icon" Height="260" HorizontalAlignment="Center" Margin="170,10,170,0" x:Name="gbPopupMenu_Copy" VerticalAlignment="Top" Width="402">
+                <Grid>
+                    <Image Height="216" HorizontalAlignment="Left" Margin="14,15,0,0" x:Name="loadicon" VerticalAlignment="Top" Width="360" Stretch="Fill" Cursor="Hand" MouseLeftButtonUp="loadicon_MouseLeftButtonUp" ToolTip="Application load image 480x800" AllowDrop="True" Focusable="True" />
+                    <TextBlock Background="AliceBlue"  TextAlignment="Center" Text="This image is used when the application is loading. It must have a size of 480x800. Click to add." TextWrapping="Wrap" HorizontalAlignment="Left" Margin="14,15,0,10" x:Name="lblLoadIcon" Width="360" MouseLeftButtonUp="lblLoadIcon_MouseLeftButtonUp" Cursor="Hand" ToolTip="Application load image 480x800" AllowDrop="True" Focusable="True" />
+                </Grid>
+            </GroupBox>
+        </StackPanel>
+    </Grid>
+</Page>

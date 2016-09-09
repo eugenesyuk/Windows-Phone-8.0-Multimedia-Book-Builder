@@ -1,0 +1,54 @@
+﻿<Page x:Class="BookGen.Pages.Pages"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="625" d:DesignWidth="855"
+	Title="Pages" Loaded="Page_Loaded_1">
+
+    <Grid x:Name="ContentGrid" Margin="0,0,0,15">
+    	<StackPanel MaxWidth="800">
+	        <TextBlock FontSize="16" TextWrapping="Wrap" MaxWidth="800" HorizontalAlignment="Left"><Run Text="Now you should add some pages to your book by using the three controls below. The three of them must be used to configure each page you want to add, plus the big rectangle at the bottom of this window."/><LineBreak/><Run/><LineBreak/><Run Text="The leftmost box is used to add a new page to the book. Click on the &quot;Add&quot; button, and a new window will appear. In this window you can add a name to the page, and a delay in seconds after which the page will automatically turn when its audio has finished playing. The background image for the page can be chosen by clicking on the big rectangle at the bottom of this window. It must be an image of size 480x800 pixels. Then, add some text to the page by using the middle control box. Click on the &quot;Add&quot; button and a new window will appear. Here you can choose an image containing the text (480x800), and the name of the language. Finally, add an audio file to the page by using the last control box. The language name for both the audio file and the text image must match."/></TextBlock>
+			<Grid x:Name="BottomControlsGrid" Margin="0,10,0,0">
+					<Grid.ColumnDefinitions>
+    					<ColumnDefinition Width="33*"/>
+						<ColumnDefinition Width="33*"/>
+						<ColumnDefinition Width="33*"/>
+					</Grid.ColumnDefinitions>
+					<Grid.RowDefinitions>
+						<RowDefinition Height="*"/>
+					</Grid.RowDefinitions>
+		        <GroupBox Grid.Row="0" Grid.Column="0" Header="Pages" Height="90" HorizontalAlignment="Left" Margin="0" Name="gbPages" VerticalAlignment="Top" Width="260">
+		            <Grid>
+		                <ComboBox Height="23" HorizontalAlignment="Left" Margin="6,6,0,0" Name="cbPages" VerticalAlignment="Top" Width="170" SelectionChanged="cbPages_SelectionChanged" />
+		                <Button Content="Settings" Height="23" HorizontalAlignment="Right" Margin="0,6,6,0" Name="btnPagesSettings" VerticalAlignment="Top" Width="60" Click="btnPagesSettings_Click" />
+		                <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="6,35,0,0" Name="btnPagesAdd" VerticalAlignment="Top" Width="75" Click="btnPagesAdd_Click" />
+		                <Button Content="Remove" Height="23" HorizontalAlignment="Left" Margin="101,35,0,0" Name="btnPagesRemove" VerticalAlignment="Top" Width="75" Click="btnPagesRemove_Click" />
+		            </Grid>
+		        </GroupBox>
+		        <GroupBox Grid.Row="0" Grid.Column="1" Header="Languages" Height="90" HorizontalAlignment="Left" Margin="0" Name="gbLanguages" VerticalAlignment="Top" Width="260">
+		            <Grid>
+		                <ComboBox Height="23" HorizontalAlignment="Left" Margin="6,6,0,0" Name="cbLanguages" VerticalAlignment="Top" Width="170" />
+		                <Button Content="Settings" Height="23" HorizontalAlignment="Left" Margin="182,6,0,0" Name="btnLanguagesSettings" VerticalAlignment="Top" Width="60" Click="btnLanguagesSettings_Click" />
+		                <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="6,35,0,0" Name="btnLanguagesAdd" VerticalAlignment="Top" Width="75" Click="btnLanguagesAdd_Click" />
+		                <Button Content="Remove" Height="23" HorizontalAlignment="Left" Margin="101,35,0,0" Name="btnLanguagesRemove" VerticalAlignment="Top" Width="75" Click="btnLanguagesRemove_Click" />
+		            </Grid>
+		        </GroupBox>
+		        <GroupBox Grid.Row="0" Grid.Column="2" Header="Sounds" Height="90" HorizontalAlignment="Left" Margin="0" Name="gbSounds" VerticalAlignment="Top" Width="260">
+		            <Grid>
+		                <ComboBox Height="23" HorizontalAlignment="Left" Margin="6,6,0,0" Name="cbSounds" VerticalAlignment="Top" Width="170" />
+		                <Button Content="Settings" Height="23" HorizontalAlignment="Left" Margin="182,6,0,0" Name="btnSoundsSettings" VerticalAlignment="Top" Width="60" Click="btnSoundsSettings_Click" />
+		                <Button Content="Add" Height="23" HorizontalAlignment="Left" Margin="6,35,0,0" Name="btnSoundsAdd" VerticalAlignment="Top" Width="75" Click="btnSoundsAdd_Click" />
+		                <Button Content="Remove" Height="23" HorizontalAlignment="Left" Margin="101,35,0,0" Name="btnSoundsRemove" VerticalAlignment="Top" Width="75" Click="btnSoundsRemove_Click" />
+		            </Grid>
+		        </GroupBox>
+			</Grid>
+			<Canvas x:Name="PagesImagesCanvas" Width="640" Height="480" Margin="0,10,0,0" HorizontalAlignment="Left">
+                <Image HorizontalAlignment="Left" Margin="0" Name="imgBackground" Stretch="Fill" VerticalAlignment="Top" Width="800" Height="480" MouseLeftButtonDown="label1_MouseLeftButtonDown" Panel.ZIndex="1" />
+		        	<Label Background="AliceBlue" Content="Click to change image background" FontWeight="Bold" FontSize="22" Height="480"  Margin="0" Name="label1"  
+		               Width="800" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" MouseLeftButtonDown="label1_MouseLeftButtonDown" />
+		     </Canvas>
+		</StackPanel>
+    </Grid>
+</Page>

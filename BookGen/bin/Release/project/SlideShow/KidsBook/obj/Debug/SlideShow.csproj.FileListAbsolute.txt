@@ -1,0 +1,191 @@
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\ApplicationIcon.png
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\Background.png
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\SplashScreenImage.jpg
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\KidsBook.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\KidsBook.pdb
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\AppManifest.xaml
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\Len_book_polish.xap
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.xml
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\New folder (2)\SlideShow\KidsBook\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+C:\New folder (2)\SlideShow\KidsBook\obj\Debug\App.g.cs
+C:\New folder (2)\SlideShow\KidsBook\obj\Debug\MainPage.g.cs
+C:\New folder (2)\SlideShow\KidsBook\obj\Debug\KidsBook.g.resources
+C:\New folder (2)\SlideShow\KidsBook\obj\Debug\KidsBook.dll
+C:\New folder (2)\SlideShow\KidsBook\obj\Debug\KidsBook.pdb
+C:\New folder (2)\SlideShow\KidsBook\obj\Debug\XapCacheFile.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\ApplicationIcon.png
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\Background.png
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\SplashScreenImage.jpg
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\KidsBook.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\KidsBook.pdb
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\AppManifest.xaml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\obj\Debug\App.g.cs
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\obj\Debug\MainPage.g.cs
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\obj\Debug\KidsBook.g.resources
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\obj\Debug\KidsBook.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\obj\Debug\KidsBook.pdb
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\obj\Debug\XapCacheFile.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\obj\Debug\App.g.cs
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\obj\Debug\MainPage.g.cs
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\obj\Debug\KidsBook.g.resources
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\obj\Debug\KidsBook.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\obj\Debug\KidsBook.pdb
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\ApplicationIcon.png
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\Background.png
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\SplashScreenImage.jpg
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\KidsBook.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\KidsBook.pdb
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\AppManifest.xaml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\Len_book_polish.xap
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\System.Windows.Interactivity.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\System.Windows.Interactivity.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow - Copy\KidsBook\obj\Debug\XapCacheFile.xml
+c:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\kwokanewrelease_PL.xap
+c:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.dll
+c:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.dll
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\Kwoka(3\27\2013)_PL.xap
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\app\PGSBooks\Wizard Book Generator\project\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ApplicationIcon.png
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\Background.png
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\SplashScreenImage.jpg
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\KidsBook.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\KidsBook.pdb
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\AppManifest.xaml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.xml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\App.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\MainPage.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\KidsBook.g.resources
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\KidsBook.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\KidsBook.pdb
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\XapCacheFile.xml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\Kwoka.xap
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ApplicationIcon.png
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\Background.png
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\SplashScreenImage.jpg
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\KidsBook.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\KidsBook.pdb
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\AppManifest.xaml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.xml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\App.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\MainPage.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\KidsBook.g.resources
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\KidsBook.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\KidsBook.pdb
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\obj\Debug\XapCacheFile.xml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\project\SlideShow\KidsBook\Bin\Debug\newbook_pl.xap

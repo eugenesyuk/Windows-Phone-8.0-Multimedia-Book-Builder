@@ -1,0 +1,5 @@
+// SlideShow configuration file
+totalPages = 1
+sensitivity = 1
+language = pl
+delays = 0

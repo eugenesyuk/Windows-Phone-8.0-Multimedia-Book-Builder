@@ -1,0 +1,60 @@
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\ApplicationIcon.jpg
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\Background.jpg
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\SplashScreenImage.jpg
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\KidsBook.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\KidsBook.pdb
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\AppManifest.xaml
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\KidsBook.xap
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\obj\Debug\App.g.i.cs
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\obj\Debug\MainPage.g.i.cs
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\obj\Debug\KidsBook.g.resources
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\obj\Debug\KidsBook.dll
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\obj\Debug\KidsBook.pdb
+C:\Users\tmurillo.PGS-SOFT\Documents\Visual Studio 2010\Projects\KidsBook\KidsBook\obj\Debug\XapCacheFile.xml
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\ApplicationIcon.jpg
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\Background.jpg
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\SplashScreenImage.jpg
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\KidsBook.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\KidsBook.pdb
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\AppManifest.xaml
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\KidsBook.xap
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\obj\Debug\App.g.i.cs
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\obj\Debug\MainPage.g.i.cs
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\obj\Debug\KidsBook.g.resources
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\obj\Debug\KidsBook.dll
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\obj\Debug\KidsBook.pdb
+C:\Users\ppogorzele\Desktop\Paradieschen_Playbook\PGSBooks\SlideShow\KidsBook\obj\Debug\XapCacheFile.xml

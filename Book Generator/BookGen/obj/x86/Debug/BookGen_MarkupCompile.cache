@@ -1,0 +1,20 @@
+﻿BookGen
+
+
+winexe
+C#
+.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Debug\
+BookGen
+none
+false
+DEBUG;TRACE
+C:\app\PGSBooks\Wizard Book Generator\BookGen\App.xaml
+20-352081357
+2-1983002498
+37-1794469182
+16-1763525340
+IBooksMainWindow.xaml;Pages\IBFinish.xaml;Pages\IBBuild.xaml;Pages\IBFirstPage.xaml;Pages\IBCover.xaml;Pages\IBPages.xaml;Pages\IBSettings.xaml;Pages\IBWelcome.xaml;WPMainWindow.xaml;Pages\Build.xaml;Pages\Finish.xaml;Pages\Pages.xaml;Pages\Project.xaml;Pages\Settings.xaml;Pages\StartPage.xaml;Pages\Welcome.xaml;SelectBookType.xaml;Windows\LanguagesForm.xaml;Windows\PagesForm.xaml;Windows\SoundsForm.xaml;
+
+False
+

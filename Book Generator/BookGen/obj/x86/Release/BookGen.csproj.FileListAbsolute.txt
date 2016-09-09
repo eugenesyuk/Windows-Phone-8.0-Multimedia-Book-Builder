@@ -1,0 +1,184 @@
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\BookGen.XML
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\BookGen.exe
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\BookGen.pdb
+C:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\Ionic.Zip.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Interop.WMPLib.dll
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csproj.ResolveComReference.cache
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\IBooksMainWindow.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBFinish.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBBuild.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBFirstPage.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBCover.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBPages.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBSettings.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBWelcome.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\WPMainWindow.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Build.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Finish.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Pages.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Project.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Settings.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\StartPage.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Welcome.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\SelectBookType.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\LanguagesForm.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\PagesForm.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\SoundsForm.baml
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\IBooksMainWindow.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBFinish.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBBuild.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBFirstPage.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBCover.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBPages.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBSettings.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBWelcome.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\WPMainWindow.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Build.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Finish.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Pages.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Project.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Settings.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\StartPage.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Welcome.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\SelectBookType.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\LanguagesForm.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\PagesForm.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\SoundsForm.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\App.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen_Content.g.cs
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen_MarkupCompile.cache
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.g.resources
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.Properties.Resources.resources
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csproj.GenerateResource.Cache
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.exe
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.pdb
+C:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csprojResolveAssemblyReference.cache
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\BookGen.XML
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Interop.WMPLib.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csproj.ResolveComReference.cache
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.exe
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.pdb
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\BookGen.exe
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\BookGen.pdb
+D:\app\PGSBooks\Wizard Book Generator\BookGen\bin\Release\Ionic.Zip.dll
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csprojResolveAssemblyReference.cache
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\IBooksMainWindow.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBFinish.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBBuild.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBFirstPage.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBCover.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBPages.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBSettings.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBWelcome.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\WPMainWindow.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Build.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Finish.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Pages.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Project.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Settings.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\StartPage.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Welcome.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\SelectBookType.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\LanguagesForm.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\PagesForm.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\SoundsForm.baml
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\IBooksMainWindow.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBFinish.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBBuild.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBFirstPage.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBCover.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBPages.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBSettings.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\IBWelcome.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\WPMainWindow.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Build.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Finish.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Pages.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Project.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Settings.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\StartPage.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Welcome.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\SelectBookType.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\LanguagesForm.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\PagesForm.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\Windows\SoundsForm.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\App.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen_Content.g.cs
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen_MarkupCompile.cache
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.g.resources
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.Properties.Resources.resources
+D:\app\PGSBooks\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csproj.GenerateResource.Cache
+D:\Wizard Book Generator\BookGen\bin\Release\BookGen.XML
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Interop.WMPLib.dll
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csproj.ResolveComReference.cache
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.exe
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.pdb
+D:\Wizard Book Generator\BookGen\bin\Release\BookGen.exe
+D:\Wizard Book Generator\BookGen\bin\Release\BookGen.pdb
+D:\Wizard Book Generator\BookGen\bin\Release\Ionic.Zip.dll
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csprojResolveAssemblyReference.cache
+D:\Wizard Book Generator\BookGen\obj\x86\Release\WPMainWindow.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Build.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Finish.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Pages.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Project.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Settings.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\StartPage.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Welcome.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Windows\LanguagesForm.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Windows\PagesForm.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Windows\SoundsForm.baml
+D:\Wizard Book Generator\BookGen\obj\x86\Release\WPMainWindow.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Build.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Finish.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Pages.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Project.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Settings.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\StartPage.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Pages\Welcome.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Windows\LanguagesForm.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Windows\PagesForm.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\Windows\SoundsForm.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\App.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen_Content.g.cs
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen_MarkupCompile.cache
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.g.resources
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.Properties.Resources.resources
+D:\Wizard Book Generator\BookGen\obj\x86\Release\BookGen.csproj.GenerateResource.Cache
+D:\Book Generator\BookGen\bin\Release\BookGen.XML
+D:\Book Generator\BookGen\obj\x86\Release\Interop.WMPLib.dll
+D:\Book Generator\BookGen\obj\x86\Release\BookGen.csproj.ResolveComReference.cache
+D:\Book Generator\BookGen\obj\x86\Release\BookGen.exe
+D:\Book Generator\BookGen\obj\x86\Release\BookGen.pdb
+D:\Book Generator\BookGen\bin\Release\BookGen.exe
+D:\Book Generator\BookGen\bin\Release\BookGen.pdb
+D:\Book Generator\BookGen\bin\Release\Ionic.Zip.dll
+D:\Book Generator\BookGen\obj\x86\Release\BookGen.csprojResolveAssemblyReference.cache
+D:\Book Generator\BookGen\obj\x86\Release\WPMainWindow.baml
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Build.baml
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Finish.baml
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Pages.baml
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Project.baml
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Settings.baml
+D:\Book Generator\BookGen\obj\x86\Release\Pages\StartPage.baml
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Welcome.baml
+D:\Book Generator\BookGen\obj\x86\Release\Windows\LanguagesForm.baml
+D:\Book Generator\BookGen\obj\x86\Release\Windows\PagesForm.baml
+D:\Book Generator\BookGen\obj\x86\Release\Windows\SoundsForm.baml
+D:\Book Generator\BookGen\obj\x86\Release\WPMainWindow.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Build.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Finish.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Pages.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Project.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Settings.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Pages\StartPage.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Pages\Welcome.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Windows\LanguagesForm.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Windows\PagesForm.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\Windows\SoundsForm.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\App.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\BookGen_Content.g.cs
+D:\Book Generator\BookGen\obj\x86\Release\BookGen_MarkupCompile.cache
+D:\Book Generator\BookGen\obj\x86\Release\BookGen.g.resources
+D:\Book Generator\BookGen\obj\x86\Release\BookGen.Properties.Resources.resources
+D:\Book Generator\BookGen\obj\x86\Release\BookGen.csproj.GenerateResource.Cache

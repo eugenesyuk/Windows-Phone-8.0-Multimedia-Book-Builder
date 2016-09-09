@@ -1,0 +1,19 @@
+﻿<Page x:Class="BookGen.Pages.Build"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="373" d:DesignWidth="475.625"
+	Title="Build">
+
+    <Grid x:Name="ContentGrid" Margin="0,0,0,15">
+    	<StackPanel MaxWidth="800">
+        	<TextBlock FontSize="16" TextWrapping="Wrap" MaxWidth="800" HorizontalAlignment="Left" Text="Your book application is ready to be built. Click on the button below to start the process, or click &quot;Back&quot; if you want to change any of its settings before continuing"/>
+			<Button Name="buildBtn" Margin="0,10,0,0" Width="80" Height="23" Content="Build project" Click="buildBtn_Click"></Button>
+			<TextBlock Name="statusLabel" Text="Status:" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,0" Visibility="Hidden"/>
+			<ProgressBar Name="progressBar" HorizontalAlignment="Center" Height="15" Margin="0,10,0,0" Width="200" Visibility="Hidden"/>
+        	<TextBlock Name="txtStatus" FontSize="16" TextWrapping="Wrap" MaxWidth="800" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+		</StackPanel>
+    </Grid>
+</Page>

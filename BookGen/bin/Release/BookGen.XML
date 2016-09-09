@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookGen</name>
+    </assembly>
+    <members>
+        <member name="M:BookGen.Classes.LoadProjectFile.OpenFromFile">
+            <summary>
+            Load book from file
+            </summary>
+            <param name="fileName"> File Name</param>
+        </member>
+        <member name="M:BookGen.MargeBitmap.Merge">
+            <summary>
+            Merges the two images placed at the source and toMarge static fields.
+            </summary>
+        </member>
+        <member name="M:BookGen.MargeBitmap.CreateWhitePage(System.String)">
+            <summary>
+            Creates a copy of the given image, flipped and with a 70% opacity white layer on top. This image is used for the back side of the book's pages.
+            </summary>
+            <param name="fileName">The path in which to store the resulting page</param>
+        </member>
+        <member name="P:BookGen.MargeBitmap.Source">
+            <summary>
+            Image containing the page's background. It must be a 480x800 pixels image.
+            </summary>
+        </member>
+        <member name="P:BookGen.MargeBitmap.ToMarge">
+            <summary>
+            Image containing the text to be placed over the page's background. This image must be a 480x800 pixels image containing text of any color over white background.
+            </summary>
+        </member>
+        <member name="T:BookGen.Pages.Build">
+            <summary>
+            Interaction logic for Build.xaml
+            </summary>
+            <summary>
+            Build
+            </summary>
+        </member>
+        <member name="M:BookGen.Pages.Build.MergeImage(System.String)">
+            <summary>
+            Merges all the book's background images with their corresponding language images, and save the resulting images.
+            </summary>
+            <param name="path">The path in which to store the resulting images</param>
+        </member>
+        <member name="M:BookGen.Pages.Build.CopySounds(System.String)">
+            <summary>
+            Renames and copies the book's sound files into the project
+            </summary>
+            <param name="path">The project's path in which the sound files will be stored</param>
+        </member>
+        <member name="M:BookGen.Pages.Build.CopyIcons(System.String)">
+            <summary>
+            Copy the the rest of the images that make up the book in the given path, renaming them accordingly
+            </summary>
+            <param name="path">Root directory of output project</param>
+        </member>
+        <member name="M:BookGen.Pages.Build.SetBuildInfo(System.String,System.String,System.String,System.String)">
+            <summary>
+            Updates the .csproj XML file with the according project build info
+            </summary>
+            <param name="projectDirectory">The root directory of the project to be built</param>
+            <param name="xapFileName">The desired name for the resulting .xap file</param>
+            <param name="titleName">The desired name for the book</param>
+            <param name="language">The name of the book's language (only one book can be built at once)</param>
+        </member>
+        <member name="M:BookGen.Pages.Build.CreateXAP(System.String,System.String)">
+            <summary>
+            Call MSBuild to create the xap file of the project
+            </summary>
+            <param name="projectFileName">Path to the project's .sln file</param>
+        </member>
+        <member name="M:BookGen.Pages.Build.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Pages.Finish">
+            <summary>
+            Interaction logic for Finish.xaml
+            </summary>
+            <summary>
+            Finish
+            </summary>
+        </member>
+        <member name="M:BookGen.Pages.Finish.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Pages.Project">
+            <summary>
+            Interaction logic for Project.xaml
+            </summary>
+            <summary>
+            Project
+            </summary>
+        </member>
+        <member name="M:BookGen.Pages.Project.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Pages.Settings">
+            <summary>
+            Interaction logic for Settings.xaml
+            </summary>
+            <summary>
+            Settings
+            </summary>
+        </member>
+        <member name="M:BookGen.Pages.Settings.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Pages.StartPage">
+            <summary>
+            Interaction logic for StartPage.xaml
+            </summary>
+            <summary>
+            StartPage
+            </summary>
+        </member>
+        <member name="M:BookGen.Pages.StartPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Pages.Welcome">
+            <summary>
+            Interaction logic for Welcome.xaml
+            </summary>
+            <summary>
+            Welcome
+            </summary>
+        </member>
+        <member name="M:BookGen.Pages.Welcome.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Windows.LanguagesForm">
+            <summary>
+            Interaction logic for LanguagesForm.xaml
+            </summary>
+            <summary>
+            LanguagesForm
+            </summary>
+        </member>
+        <member name="M:BookGen.Windows.LanguagesForm.isValidBackgroundImage(System.String)">
+            <summary>
+            Tells if a file meets all the requirements for being a background image, and shows error messages otherwise
+            </summary>
+            <param name="fileName">The file's full path</param>
+            <returns>True if the file is a .png or .jpg image with a resolution of 480x800 pixels</returns>
+        </member>
+        <member name="M:BookGen.Windows.LanguagesForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Windows.PagesForm">
+            <summary>
+            Interaction logic for PagesForm.xaml
+            </summary>
+            <summary>
+            PagesForm
+            </summary>
+        </member>
+        <member name="F:BookGen.Windows.PagesForm.edit">
+            <summary>
+            Represents whether we are editing an existing page or creating a new one
+            </summary>
+        </member>
+        <member name="M:BookGen.Windows.PagesForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Windows.SoundsForm">
+            <summary>
+            Interaction logic for SoundsForm.xaml
+            </summary>
+            <summary>
+            SoundsForm
+            </summary>
+        </member>
+        <member name="M:BookGen.Windows.SoundsForm.isValidSound(System.String)">
+            <summary>
+            Tells if a file meets all the requirements for being a page's sound, and shows error messages otherwise
+            </summary>
+            <param name="fileName">The file's full path</param>
+            <returns>True if the file is a .mp3 or .wav sound file of 1MB maximum size</returns>
+        </member>
+        <member name="M:BookGen.Windows.SoundsForm.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:BookGen.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:BookGen.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:BookGen.BookManager">
+            <summary>
+            Represents a book, containing all its data
+            </summary>
+        </member>
+        <member name="P:BookGen.BookManager.Languages">
+            <summary>
+            List of the book's available languages
+            </summary>
+        </member>
+        <member name="M:BookGen.Classes.Page.#ctor(System.String,System.Single)">
+            <summary>
+            Page constructor
+            </summary>
+            <param name="title">Page's title</param>
+            <param name="delay">Delay in seconds</param>
+        </member>
+        <member name="M:BookGen.Classes.Page.AddImage(System.String,System.String)">
+            <summary>
+            Adds a language image to this page
+            </summary>
+            <param name="language">The name of the language whose image is to be added</param>
+            <param name="file">The image file to be added</param>
+        </member>
+        <member name="M:BookGen.Classes.Page.RemoveImage(System.String)">
+            <summary>
+            Removes a language image from this page
+            </summary>
+            <param name="language">The name of the language whose image will be removed</param>
+        </member>
+        <member name="M:BookGen.Classes.Page.AddSound(System.String,System.String)">
+            <summary>
+            Adds a sound file to this page
+            </summary>
+            <param name="language">The name of the language whose sound is to be added</param>
+            <param name="file">The sound file to be added</param>
+        </member>
+        <member name="M:BookGen.Classes.Page.RemoveSound(System.String)">
+            <summary>
+            Removes a sound file from this page
+            </summary>
+            <param name="language">The name of the language whose sound file will be removed</param>
+        </member>
+        <member name="P:BookGen.Classes.Page.Background">
+            <summary>
+            Page's background image, to be shared among all its languages
+            </summary>
+        </member>
+        <member name="P:BookGen.Classes.Page.Title">
+            <summary>
+            Page's name
+            </summary>
+        </member>
+        <member name="P:BookGen.Classes.Page.Delay">
+            <summary>
+            Delay in seconds after the page will turn on its own after its sound has stopped playing
+            </summary>
+        </member>
+        <member name="P:BookGen.Classes.Page.Images">
+            <summary>
+            Contains the language images for this page, along with their language's name as (name, image) pairs
+            </summary>
+        </member>
+        <member name="P:BookGen.Classes.Page.Sounds">
+            <summary>
+            Contains the sound files for the page, along with their language's name as (name, sound) pairs
+            </summary>
+        </member>
+        <member name="T:BookGen.WPMainWindow">
+            <summary>
+            Interaction logic for WPMainWindow.xaml
+            </summary>
+            <summary>
+            WPMainWindow
+            </summary>
+        </member>
+        <member name="M:BookGen.WPMainWindow.checkBookPages">
+            <summary>
+            Checks whether the book is not empty and all its inner pages are correctly configurated.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BookGen.WPMainWindow.checkPage(BookGen.Classes.Page)">
+            <summary>
+            Checks whether a page is configured correctly
+            </summary>
+        </member>
+        <member name="M:BookGen.WPMainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Pages.Pages">
+            <summary>
+            Interaction logic for Pages.xaml
+            </summary>
+            <summary>
+            Pages
+            </summary>
+        </member>
+        <member name="M:BookGen.Pages.Pages.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:BookGen.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:BookGen.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:BookGen.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
